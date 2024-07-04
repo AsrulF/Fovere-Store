@@ -9,8 +9,8 @@ import "./globals.css";
 const font = Marcellus({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "fovere-store",
-  description: "fovere-store",
+  title: "Fovere",
+  description: "Fovere Store",
 };
 
 export default function RootLayout({
